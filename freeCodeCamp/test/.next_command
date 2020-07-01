@@ -762,3 +762,12 @@ rm fonts/lato.ttf
 rm menlo.otf
 rm --help
 rm -r fonts
+ls --color=auto
+find
+ls --color=auto
+cd workspace/project/website
+cls
+clear
+find
+ls --color=auto
+ls --color=auto fonts
