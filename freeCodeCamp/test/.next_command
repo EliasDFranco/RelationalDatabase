@@ -12,3 +12,4 @@ __vsc_prompt_cmd_original
 cls
 clear
 ls --color=auto
+cd src
