@@ -414,3 +414,9 @@ ls --color=auto -al
 touch background.jpg
 ls --color=auto
 touch header.png
+touch footer.png
+ls --color=auto
+rm footer.png
+cls
+clear
+touch footer.jpeg
