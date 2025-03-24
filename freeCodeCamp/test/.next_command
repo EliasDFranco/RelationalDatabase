@@ -476,3 +476,7 @@ find client
 find --help
 find -index.html
 find -name index.html
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+clear
+find -name styles.css
