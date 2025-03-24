@@ -553,3 +553,19 @@ cd ../../..
 ls --color=auto
 cd images
 ls --color=auto
+mv header.png website
+cd ..
+ls --color=auto
+mv header.png website
+clear
+cd images
+ls --color=auto
+mv website header.png
+ls --color=auto
+cls
+clear
+cd ,,
+çcd ..
+cd ..
+cd images
+mv header.png ..
