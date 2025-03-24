@@ -489,3 +489,4 @@ mv images assets
 clear
 mkdir images
 cd images
+touch background.jpg
