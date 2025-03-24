@@ -451,3 +451,4 @@ ls --color=auto
 rm header.png , footer.jpeg
 ls --color=auto
 rm footer.jpeg
+ls --color=auto
