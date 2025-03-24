@@ -485,3 +485,6 @@ find
 cd client
 mkdir assets
 cd assets
+mv images assets
+clear
+mkdir images
