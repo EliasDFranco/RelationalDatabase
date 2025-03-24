@@ -402,3 +402,10 @@ website --all
 clear
 ls --color=auto
 ls --color=auto -a
+ls --color=auto
+.
+clear
+ls --color=auto
+clear
+ls --color=auto
+cd .
