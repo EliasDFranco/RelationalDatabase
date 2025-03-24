@@ -394,3 +394,11 @@ ls --color=auto
 ls --color=auto
 ls --color=auto -l
 ls --color=auto --help
+--all
+-a
+clear
+ls --color=auto
+website --all
+clear
+ls --color=auto
+ls --color=auto -a
