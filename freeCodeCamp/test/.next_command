@@ -608,3 +608,5 @@ clear
 rm website/images/background.jpg
 rm website/images
 rm images/background.jpg
+rmdir website/images
+rmdir images
