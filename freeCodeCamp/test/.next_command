@@ -412,3 +412,5 @@ cd .
 ls --color=auto
 ls --color=auto -al
 touch background.jpg
+ls --color=auto
+touch header.png
