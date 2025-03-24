@@ -602,3 +602,9 @@ clear
 mv images/footer.jpeg client/assets/images
 find
 rmdir website/images
+clear
+rmdir images
+clear
+rm website/images/background.jpg
+rm website/images
+rm images/background.jpg
