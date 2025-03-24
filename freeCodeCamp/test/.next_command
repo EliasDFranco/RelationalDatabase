@@ -420,3 +420,5 @@ rm footer.png
 cls
 clear
 touch footer.jpeg
+clear
+ls --color=auto
