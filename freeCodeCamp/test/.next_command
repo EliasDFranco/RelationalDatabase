@@ -610,3 +610,5 @@ rm website/images
 rm images/background.jpg
 rmdir website/images
 rmdir images
+clear
+ls --color=auto
