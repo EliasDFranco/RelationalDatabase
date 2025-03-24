@@ -317,3 +317,4 @@ __vsc_prompt_cmd_original
 ls --color=auto
 mkdir website
 ls --color=auto
+cd website
