@@ -804,3 +804,4 @@ find
 find website-boilerplate
 echo Gracias a FreeCodeCamp, soy Elias D. Franco >> README.md
 clear
+echo goodbye terminal
