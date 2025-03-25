@@ -761,3 +761,4 @@ find
 rm fonts/lato.ttf
 rm menlo.otf
 rm --help
+rm -r fonts
