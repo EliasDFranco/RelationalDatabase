@@ -758,3 +758,6 @@ touch client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.tf
 touch client/assets/fonts/lato-light.ttf
 find
+rm fonts/lato.ttf
+rm menlo.otf
+rm --help
