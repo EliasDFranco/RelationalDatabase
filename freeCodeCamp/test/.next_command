@@ -750,3 +750,7 @@ cd ..
 cd ../..
 touch client/assets/fonts/roboto-bold.woff
 touch client/assets/fonts/roboto-light.woff
+touch client/assets/fonts
+find -name fonts
+find -name client/assets/fonts
+find client/assets/fonts
